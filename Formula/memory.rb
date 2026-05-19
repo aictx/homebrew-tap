@@ -1,8 +1,8 @@
 class Memory < Formula
   desc "Local-first project memory for AI coding agents"
   homepage "https://memory.aictx.dev"
-  url "https://registry.npmjs.org/@aictx/memory/-/memory-0.1.54.tgz"
-  sha256 "3dcba989310bd05a63fd2697b11bd02cae4567b23123f275360ab4c466f638ad"
+  url "https://registry.npmjs.org/@aictx/memory/-/memory-0.1.55.tgz"
+  sha256 "74ac1565074445e5725b8de0beb597508d1992bb9ee6b3e618bfc6f7023fc06f"
   license "MIT"
 
   depends_on "node"
